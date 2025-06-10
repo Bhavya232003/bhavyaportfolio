@@ -9,10 +9,7 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://meowmeow.in" className="logo">
-        <span>www.meow</span>
-        <span>meow.in</span>
-      </a>
+    
     
       <div className="social-media">
         <a
