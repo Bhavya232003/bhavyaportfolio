@@ -13,10 +13,7 @@ export function Footer() {
         <span>www.bhavya</span>
         <span>sharma.in</span>
       </a>
-      <div>
-        <p>
-         
-      </div>
+    
       <div className="social-media">
         <a
           href="https://www.linkedin.com/in/bhavya-sharma-62408a24a/"
