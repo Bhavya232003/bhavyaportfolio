@@ -9,15 +9,13 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://bhavyasharma.in" className="logo">
+      <a href="https://meowmeow.in" className="logo">
         <span>www.bhavya</span>
         <span>sharma.in</span>
       </a>
       <div>
         <p>
-          This Website was made with <img src={reactIcon} alt="React" />
-          {/* <span>❤️</span> */}
-        </p>
+         
       </div>
       <div className="social-media">
         <a
